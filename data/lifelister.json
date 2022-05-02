@@ -1,0 +1,14 @@
+{"birds": [
+    {
+        "name": "Bluejay",
+        "sighting": "01/01/2001, UBC"
+    },
+    {
+        "name": "Robin",
+        "sighting": "01/01/2020, Vancouver"
+    },
+    {
+        "name": "Crow",
+        "sighting": "05/08/2008, Surrey"
+    }
+]}

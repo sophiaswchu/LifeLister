@@ -10,7 +10,7 @@ my life list on paper, on my first generation iPod touch, and even on my Notes a
 but none of these worked for me long term. I plan to create an application that allows 
 birders to record their life list in a way that works! 
 
-##User Stories 
+## User Stories 
 
 As a user I want to be able to...
 - add a bird to my life list
@@ -24,7 +24,7 @@ As a user I want to be able to...
 - have my file save when I choose
 - load a saved list from file when I choose
 
-##References:
+## References:
 https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo
 https://github.students.cs.ubc.ca/CPSC210/TellerApp
 https://stackoverflow.com/questions/6714045/how-to-resize-jlabel-imageicon
@@ -36,7 +36,7 @@ https://docs.oracle.com/javase/tutorial/uiswing/examples/components/ListDemoProj
 https://stackoverflow.com/questions/6578205/swing-jlabel-text-change-on-the-running-application
 https://docs.oracle.com/javase/tutorial/uiswing/examples/events/ListDataEventDemoProject/src/events/ListDataEventDemo.java
 
-##Phase 4: Task 2
+## Phase 4: Task 2
 
 Tue Nov 23 19:36:08 PST 2021
 New bird, Gray Jay, added to lifeList.
@@ -53,7 +53,7 @@ New bird, Bald Eagle, added to lifeList.
 Tue Nov 23 19:38:27 PST 2021
 Sighting of Gray Jay changed from 02/04/2020, Vancouver to 11/10/2021, Burnaby.
 
-##Phase 4: Task 3
+## Phase 4: Task 3
 - make Sighting implement Writeable instead of converting to and from a String inside Bird
 - this would make more sense in terms of structure as all elements of model would then be 
   directly written to file rather than having to be converted to and from a String with an 
